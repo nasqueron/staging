@@ -1,0 +1,3 @@
+[submodule "wwwroot/eglide.org/www"]
+	path = wwwroot/eglide.org/www
+	url = https://devcentral.nasqueron.org/source/eglide-www.git
