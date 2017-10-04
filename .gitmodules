@@ -4,3 +4,6 @@
 [submodule "wwwroot/dereckson.be/assets"]
 	path = wwwroot/dereckson.be/assets
 	url = https://github.com/dereckson/assets.dereckson.be
+[submodule "software/salt-wrapper"]
+	path = software/salt-wrapper
+	url = https://devcentral.nasqueron.org/source/salt-wrapper.git
