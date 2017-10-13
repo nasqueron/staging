@@ -7,3 +7,6 @@
 [submodule "software/salt-wrapper"]
 	path = software/salt-wrapper
 	url = https://devcentral.nasqueron.org/source/salt-wrapper.git
+[submodule "wwwroot/nasqueron.org/mastodon"]
+	path = wwwroot/nasqueron.org/mastodon
+	url = https://devcentral.nasqueron.org/source/mastodon-public.git
