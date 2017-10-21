@@ -10,3 +10,12 @@
 [submodule "wwwroot/nasqueron.org/mastodon"]
 	path = wwwroot/nasqueron.org/mastodon
 	url = https://devcentral.nasqueron.org/source/mastodon-public.git
+[submodule "wwwroot/nasqueron.org/www"]
+	path = wwwroot/nasqueron.org/www
+	url = https://devcentral.nasqueron.org/diffusion/WWW/www-nasqueron-org.git
+[submodule "wwwroot/nasqueron.org/docker"]
+	path = wwwroot/nasqueron.org/docker
+	url = https://devcentral.nasqueron.org/diffusion/DOCKERWWW/docker-images-website.git
+[submodule "wwwroot/nasqueron.org/trustspace"]
+	path = wwwroot/nasqueron.org/trustspace
+	url = https://devcentral.nasqueron.org/source/trustspace-www.git
