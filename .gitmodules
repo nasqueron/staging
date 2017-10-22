@@ -19,3 +19,6 @@
 [submodule "wwwroot/nasqueron.org/trustspace"]
 	path = wwwroot/nasqueron.org/trustspace
 	url = https://devcentral.nasqueron.org/source/trustspace-www.git
+[submodule "software/ftp"]
+	path = software/ftp
+	url = https://devcentral.nasqueron.org/diffusion/FTP/nasqueron-ftp.git
