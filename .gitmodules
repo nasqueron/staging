@@ -22,3 +22,6 @@
 [submodule "software/ftp"]
 	path = software/ftp
 	url = https://devcentral.nasqueron.org/diffusion/FTP/nasqueron-ftp.git
+[submodule "software/zemke-rhyne"]
+	path = software/zemke-rhyne
+	url = https://devcentral.nasqueron.org/source/zemke-rhyne.git
