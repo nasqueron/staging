@@ -25,3 +25,6 @@
 [submodule "software/zemke-rhyne"]
 	path = software/zemke-rhyne
 	url = https://devcentral.nasqueron.org/source/zemke-rhyne.git
+[submodule "wwwroot/nasqueron.org/assets"]
+	path = wwwroot/nasqueron.org/assets
+	url = https://devcentral.nasqueron.org/source/assets.git
