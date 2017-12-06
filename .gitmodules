@@ -28,3 +28,6 @@
 [submodule "wwwroot/nasqueron.org/assets"]
 	path = wwwroot/nasqueron.org/assets
 	url = https://devcentral.nasqueron.org/source/assets.git
+[submodule "wwwroot/nasqueron.org/api"]
+	path = wwwroot/nasqueron.org/api
+	url = https://devcentral.nasqueron.org/source/api.git
