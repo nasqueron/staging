@@ -31,3 +31,6 @@
 [submodule "wwwroot/nasqueron.org/api"]
 	path = wwwroot/nasqueron.org/api
 	url = https://devcentral.nasqueron.org/source/api.git
+[submodule "software/api/serverslog"]
+	path = software/api/serverslog
+	url = https://devcentral.nasqueron.org/source/api-serverslog.git
