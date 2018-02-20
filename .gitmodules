@@ -37,3 +37,6 @@
 [submodule "wwwroot/nasqueron.org/infra"]
 	path = wwwroot/nasqueron.org/infra
 	url = https://devcentral.nasqueron.org/source/infra-www.git
+[submodule "software/notifications-cli-client"]
+	path = software/notifications-cli-client
+	url = https://devcentral.nasqueron.org/source/notifications-cli-client.git
