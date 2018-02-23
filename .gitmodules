@@ -40,3 +40,12 @@
 [submodule "software/notifications-cli-client"]
 	path = software/notifications-cli-client
 	url = https://devcentral.nasqueron.org/source/notifications-cli-client.git
+[submodule "software/HexGL"]
+	path = software/HexGL
+	url = https://github.com/BKcore/HexGL.git
+[submodule "software/corporate-name-generator"]
+	path = software/corporate-name-generator
+	url = https://devcentral.nasqueron.org/source/corporate-name-generator.git
+[submodule "wwwroot/nasqueron.org/labs"]
+	path = wwwroot/nasqueron.org/labs
+	url = https://github.com/nasqueron/labs.git
