@@ -49,3 +49,6 @@
 [submodule "wwwroot/nasqueron.org/labs"]
 	path = wwwroot/nasqueron.org/labs
 	url = https://github.com/nasqueron/labs.git
+[submodule "wwwroot/nasqueron.org/packages"]
+	path = wwwroot/nasqueron.org/packages
+	url = https://devcentral.nasqueron.org/source/packages.git
