@@ -58,3 +58,6 @@
 [submodule "software/wolfplex/web-campaigns-2013"]
 	path = software/wolfplex/web-campaigns-2013
 	url = https://github.com/wolfplex/web-campaigns-2013
+[submodule "wwwroot/wolfplex.org/api"]
+	path = wwwroot/wolfplex.org/api
+	url = https://github.com/wolfplex/api-www
