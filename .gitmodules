@@ -55,3 +55,6 @@
 [submodule "wwwroot/wolfplex.org/www"]
 	path = wwwroot/wolfplex.org/www
 	url = https://github.com/wolfplex/www.git
+[submodule "software/wolfplex/web-campaigns-2013"]
+	path = software/wolfplex/web-campaigns-2013
+	url = https://github.com/wolfplex/web-campaigns-2013
