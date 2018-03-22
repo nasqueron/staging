@@ -52,3 +52,6 @@
 [submodule "wwwroot/nasqueron.org/packages"]
 	path = wwwroot/nasqueron.org/packages
 	url = https://devcentral.nasqueron.org/source/packages.git
+[submodule "wwwroot/wolfplex.org/www"]
+	path = wwwroot/wolfplex.org/www
+	url = https://github.com/wolfplex/www.git
