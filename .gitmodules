@@ -61,3 +61,7 @@
 [submodule "wwwroot/wolfplex.org/api"]
 	path = wwwroot/wolfplex.org/api
 	url = https://github.com/wolfplex/api-www
+[submodule "software/phpbb"]
+	path = software/phpbb
+	url = https://github.com/phpbb/phpbb.git
+	branch = remotes/origin/3.2.x
