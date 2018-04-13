@@ -65,3 +65,6 @@
 	path = software/phpbb
 	url = https://github.com/phpbb/phpbb.git
 	branch = remotes/origin/3.2.x
+[submodule "wwwroot/hypership.space/www"]
+	path = wwwroot/hypership.space/www
+	url = https://github.com/dereckson/zed
