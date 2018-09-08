@@ -68,3 +68,6 @@
 [submodule "wwwroot/hypership.space/www"]
 	path = wwwroot/hypership.space/www
 	url = https://github.com/dereckson/zed
+[submodule "wwwroot/502"]
+	path = wwwroot/502
+	url = http://devcentral.nasqueron.org/diffusion/DII/502-error-pages.git
