@@ -71,3 +71,6 @@
 [submodule "wwwroot/wolfplex.org/assets"]
 	path = wwwroot/wolfplex.org/assets
 	url = https://github.com/wolfplex/assets.git
+[submodule "wwwroot/nasqueron.org/launch"]
+	path = wwwroot/nasqueron.org/launch
+	url = https://devcentral.nasqueron.org/source/launch.git
