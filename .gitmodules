@@ -28,9 +28,6 @@
 [submodule "software/api/serverslog"]
 	path = software/api/serverslog
 	url = https://devcentral.nasqueron.org/source/api-serverslog.git
-[submodule "software/notifications-cli-client"]
-	path = software/notifications-cli-client
-	url = https://devcentral.nasqueron.org/source/notifications-cli-client.git
 [submodule "software/HexGL"]
 	path = software/HexGL
 	url = https://github.com/BKcore/HexGL.git
